@@ -11,4 +11,4 @@
 1. [x] [SQL](sql/)
 1. [x] [Reporting](reporting/)
 1. [ ] [Summary](summary/)
-
+[![Build status](https://ci.appveyor.com/api/projects/status/jam85yk1puvbpv0g?svg=true)](https://ci.appveyor.com/project/Konstantin81533/homework-2a-1)
